@@ -130,7 +130,7 @@ python scripts/build_paper_pdf.py
 @article{guardrailgap2026,
   title   = {The Guardrail Gap: Security Risks of Non-Expert Vibe Coding
              with Open-Weight Language Models},
-  author  = {[Author]},
+  author  = {[Ruhani Arora]},
   year    = {2026},
   note    = {Manuscript under review}
 }
